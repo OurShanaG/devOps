@@ -1,3 +1,5 @@
+package com.example.springboot;
+
 public class Customer {
 
     private String firstName;
