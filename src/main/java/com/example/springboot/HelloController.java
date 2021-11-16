@@ -9,7 +9,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Leah and Mali converted the object for you:\n"+TextUtils.getText();
+		return "test";
 	}
 
 }
