@@ -1,6 +1,5 @@
 package com.example.springboot;
 import java.lang.*;
-import java.util.Date;
 
 public class Customer {
 
@@ -22,7 +21,7 @@ public class Customer {
         return lastName;
     } 
 
-        public Date getDob(){
+        public String getDob(){
         return dob;
     }                                                                                                     
 
